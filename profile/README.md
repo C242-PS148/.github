@@ -23,5 +23,5 @@
 ### Machine Learning
 [Machine learning models](https://github.com/C242-PS148/MachineLearning) including Jupyter Notebook, h5 file, and Python.
 ### Cloud Computing
-https://github.com/C242-PS148/CloudComputing.git
+[Backend Code for Cloud Computing API](https://github.com/C242-PS148/CloudComputing.git)
 ### Mobile Development
