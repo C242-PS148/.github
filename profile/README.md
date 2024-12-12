@@ -1,11 +1,13 @@
 ## Product-Based Capstone "CheckMATE" 
 ## C242-PS148
+![C242-PS148_CheckMATE (8)](https://github.com/user-attachments/assets/4c683e84-4039-4b0f-b061-3b5d023cc39b)
 
 ## Advisors :
 - ML24-0306 Yusuf Firdaus Arifi - Machine Learning/Data/AI
 - SS24-0039 Prio Utomo - Business/Commerce/Startup
 
 ## Members :
+
 - Machine Learning - M006B4KX4175 - Siti Nurhaliza - Universitas Brawijaya
 - Machine Learning - M006B4KY0063 - Achmad Zain Nur Rahman - Universitas Brawijaya
 - Machine Learning - M006B4KX3182 - Nabila Fairuz Romadhona - Universitas Brawijaya
